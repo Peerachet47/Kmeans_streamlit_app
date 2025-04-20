@@ -6,8 +6,8 @@ Created on Sun Apr 20 16:14:26 2025
 @author: peerachet
 """
 import streamlit as st
-import pickle
 import matplotlib.pyplot as plt
+import pickle
 from sklearn.datasets import make_blobs
 
 #load models
